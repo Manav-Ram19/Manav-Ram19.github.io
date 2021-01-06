@@ -15,5 +15,31 @@ _Warren College, UCSD_
 3. CSE 110
 4. POLI 27
 
-- [x] 
-- [x] Forget C++
+In C++ the difference between the following this code block
+```
+for(int i=0; i<5; i++) {
+  cout<<i<<endl;
+}
+```
+and this code block
+```
+int i=0;
+do {
+  cout<<i<<endl;
+  i++;
+ } while(i<5);
+```
+is that if instead of `int i=0`, we started out with `int i=5`, then the first code block would not output anything, whereas the second code block would output `5`.
+
+# Quarter Planner:
+- [x] Week 1
+- [ ] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Finals Week 
