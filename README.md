@@ -15,7 +15,7 @@ _Warren College, UCSD_
 3. CSE 110
 4. POLI 27
 
-In C++ the difference between the following this code block
+In C++ the difference between this code block
 ```
 for(int i=0; i<5; i++) {
   cout<<i<<endl;
