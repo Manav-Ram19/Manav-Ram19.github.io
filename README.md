@@ -3,10 +3,12 @@
 ### My brain hurts.
 
 [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+
 ![image](https://cdn.bulbagarden.net/upload/6/60/258Mudkip.png)
 
 **Italic**
-_ Bold _
+
+_Bold_
 
 > Some random quote
 
