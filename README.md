@@ -2,19 +2,20 @@
 ## The statement above is True.
 ### My brain hurts.
 
-[Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+[LinkedIn](https://www.linkedin.com/in/manav-ram-740a32194/)
 
-![image](https://cdn.bulbagarden.net/upload/6/60/258Mudkip.png)
+> Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime.
 
-**Italic**
+![image](https://warren.ucsd.edu/_images/homepage-v5/homepage-images/ebu1-fallen-star.png)
 
-_Bold_
+**Warren College, UCSD**
 
-> Some random quote
+_Classes:_
 
-1. One
-2. Two
-3. Three
+1. CSE 130
+2. CSE 151A
+3. CSE 110
+4. POLI 27
 
 - [x] Learn C++
 - [x] Forget C++
